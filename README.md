@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Full-stack developer</h3>
 
-- 🔭 I’m currently working for [Reveal Systems](https://revealasset.com)
+- 🔭 I’m currently working for [Reveal Systems](https://revealasset.com) & [ZIELONE.dev](https://zielone.dev)
 
 - 🤝 I’m looking for help with [Vegan Cartel](https://vegancartel.dev)
 
